@@ -1,0 +1,88 @@
+@import './Components/UI/Header/header.scss';
+@import './Components/UI/Footer/footer.scss';
+@import './Components/Inputs/index.scss';
+@import './Page/Home/home.scss';
+@import './Page/About/about.scss';
+@import './Page/Work/work.scss';
+@import './Page/Contact/contact.scss';
+
+.page-title {
+  color: white;
+  background: #2ecc71;
+  h2 {
+    padding: 40px 0;
+  }
+}
+.text-align-center {
+  text-align: center;
+}
+p {
+  font-size: 14px;
+}
+
+.main-container {
+  position: relative;
+  min-height: calc(100vh - 436px);
+}
+body {
+  font-family: 'Roboto' !important;
+  color: #737373 !important;
+}
+
+img {
+  object-fit: cover;
+}
+.img_link {
+  cursor: pointer;
+  position: relative;
+}
+
+.slick-center .img_link::before {
+  width: 100px;
+  content: ' ';
+  background-image: url('/src/img/link.png');
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 50px);
+  height: 100px;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: 0.3s all;
+}
+
+.img_link:hover::before {
+  opacity: 1;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.not-found {
+  position: relative;
+}
+.center_e {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transform: translate3d(-50%, -50%, 0);
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text-green {
+  color: #2ecc71;
+}
+
+@media only screen and (max-width: 580px) {
+  .main-container {
+    min-height: calc(100vh - 336px);
+  }
+}

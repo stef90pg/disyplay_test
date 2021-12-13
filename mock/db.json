@@ -1,0 +1,388 @@
+{
+  "slider": [
+    {
+      "id": 0,
+      "img": "/src/img/slider/slider-1.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 1,
+      "img": "/src/img/slider/slider-2.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 2,
+      "img": "/src/img/slider/slider-3.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 3,
+      "img": "/src/img/slider/slider-4.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 4,
+      "img": "/src/img/slider/slider-5.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 5,
+      "img": "/src/img/slider/slider-3.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 6,
+      "img": "/src/img/slider/slider-1.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    },
+    {
+      "id": 7,
+      "img": "/src/img/slider/slider-5.jpg",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."
+    }
+  ],
+  "service": [
+    {
+      "id": 0,
+      "title": "WEBSITE",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia.",
+      "list": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit fringilla sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit luctus donec."
+      ],
+      "logo": "img/service/web.png"
+    },
+    {
+      "id": 1,
+      "title": "PHOTOGRAPHY",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia.",
+      "list": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit fringilla sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit luctus donec."
+      ],
+      "logo": "img/service/photo.png"
+    },
+    {
+      "id": 2,
+      "title": "SEO",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia.",
+      "list": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit fringilla sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit luctus donec."
+      ],
+      "logo": "img/service/seo.png"
+    },
+    {
+      "id": 3,
+      "title": "APPLICATION",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia.",
+      "list": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit fringilla sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit luctus donec."
+      ],
+      "logo": "img/service/app.png"
+    }
+  ],
+  "work": [
+    {
+      "id": 0,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 1,
+      "title": "Test",
+      "img": "/src/img/work/slider-2.jpg",
+      "category": "print"
+    },
+    {
+      "id": 2,
+      "title": "Test",
+      "img": "/src/img/work/slider-3.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 3,
+      "title": "Test",
+      "img": "/src/img/work/slider-4.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 4,
+      "title": "Test",
+      "img": "/src/img/work/slider-5.jpg",
+      "category": "print"
+    },
+    {
+      "id": 5,
+      "title": "Test",
+      "img": "/src/img/work/work-1.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 6,
+      "title": "Test",
+      "img": "/src/img/work/work-2.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 7,
+      "title": "Test",
+      "img": "/src/img/work/work-3.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 8,
+      "title": "Test",
+      "img": "/src/img/work/work-4.jpg",
+      "category": "print"
+    },
+    {
+      "id": 9,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 10,
+      "title": "Test",
+      "img": "/src/img/work/work-4.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 11,
+      "title": "Test",
+      "img": "/src/img/work/slider-4.jpg",
+      "category": "print"
+    },
+    {
+      "id": 12,
+      "title": "Test",
+      "img": "/src/img/work/slider-2.jpg",
+      "category": "print"
+    },
+    {
+      "id": 13,
+      "title": "Test",
+      "img": "/src/img/work/work-2.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 14,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 15,
+      "title": "Test",
+      "img": "/src/img/work/work-3.jpg",
+      "category": "print"
+    },
+    {
+      "id": 16,
+      "title": "Test",
+      "img": "/src/img/work/slider-3.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 17,
+      "title": "Test",
+      "img": "/src/img/work/work-1.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 18,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 19,
+      "title": "Test",
+      "img": "/src/img/work/slider-2.jpg",
+      "category": "print"
+    },
+    {
+      "id": 20,
+      "title": "Test",
+      "img": "/src/img/work/slider-3.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 21,
+      "title": "Test",
+      "img": "/src/img/work/slider-4.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 22,
+      "title": "Test",
+      "img": "/src/img/work/slider-5.jpg",
+      "category": "print"
+    },
+    {
+      "id": 23,
+      "title": "Test",
+      "img": "/src/img/work/work-1.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 24,
+      "title": "Test",
+      "img": "/src/img/work/work-2.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 25,
+      "title": "Test",
+      "img": "/src/img/work/work-3.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 26,
+      "title": "Test",
+      "img": "/src/img/work/work-4.jpg",
+      "category": "print"
+    },
+    {
+      "id": 27,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Web"
+    },
+    {
+      "id": 28,
+      "title": "Test",
+      "img": "/src/img/work/work-4.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 29,
+      "title": "Test",
+      "img": "/src/img/work/slider-4.jpg",
+      "category": "print"
+    },
+    {
+      "id": 30,
+      "title": "Test",
+      "img": "/src/img/work/slider-2.jpg",
+      "category": "print"
+    },
+    {
+      "id": 31,
+      "title": "Test",
+      "img": "/src/img/work/work-2.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 32,
+      "title": "Test",
+      "img": "/src/img/work/slider-1.jpg",
+      "category": "Photography"
+    },
+    {
+      "id": 33,
+      "title": "Test",
+      "img": "/src/img/work/work-3.jpg",
+      "category": "print"
+    },
+    {
+      "id": 34,
+      "title": "Test",
+      "img": "/src/img/work/slider-3.jpg",
+      "category": "Applications"
+    },
+    {
+      "id": 35,
+      "title": "Test",
+      "img": "/src/img/work/work-1.jpg",
+      "category": "Photography"
+    }
+  ],
+  "message": [
+    {
+      "name": "sada",
+      "email": "dasds@dsalsd.dsd",
+      "subject": "sad",
+      "body": "asdasd",
+      "id": 0
+    },
+    {
+      "name": "Stefan",
+      "email": "st1990pg@gmail.com",
+      "subject": "Greska sa mejlovima",
+      "body": "dsasdasd",
+      "id": 1
+    },
+    {
+      "name": "Stefan",
+      "email": "st1990pg@gmail.com",
+      "subject": "Drugi test da li ce proci",
+      "body": "dsddasdasdasd",
+      "id": 2
+    },
+    {
+      "name": "Stefan",
+      "email": "st1990pg@gmail.com",
+      "subject": "Greska sa mejlovima",
+      "body": "dasdasd",
+      "id": 3
+    },
+    {
+      "name": "Aleksa",
+      "email": "at1993pg@gmail.com",
+      "subject": "Greska sa mejlovima",
+      "body": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "subject": "",
+      "body": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "subject": "",
+      "body": "",
+      "id": 6
+    },
+    {
+      "name": "Stefan",
+      "email": "st1990pg@gmail.com",
+      "subject": "ssadas",
+      "body": "sdawdasd",
+      "id": 7
+    },
+    {
+      "name": "sahdiosa",
+      "email": "saijdasi@ashdaj.sda",
+      "subject": "isahdhkashd",
+      "body": "lkjlksahdlas",
+      "id": 8
+    },
+    {
+      "name": "sdawd",
+      "email": "st1990pg@gmail.com",
+      "subject": "sdawdasd",
+      "body": "sadwa",
+      "id": 9
+    }
+  ]
+}

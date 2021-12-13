@@ -1,0 +1,135 @@
+@import './HeroBanner/heroBanner.scss';
+@import './VideoSection/videoSection.scss';
+
+// *** Call Section ***
+
+.call-out-home {
+  margin: 110px 50px 50px 50px;
+  text-align: center;
+  h5 {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+
+// *** Portfolio Section ***
+
+.portfolio-section {
+  text-align: center;
+  margin-top: 50px;
+}
+.port-slider {
+  .slick-slider.center.slick-initialized {
+    margin: 50px;
+  }
+  .slick-prev {
+    left: 30%;
+    top: 270px;
+    z-index: 1000;
+  }
+  .slick-next {
+    right: 30%;
+    top: 270px;
+    z-index: 1000;
+  }
+  .slick-prev::before {
+    content: '\276E';
+    font-weight: 900;
+    font-size: 40px;
+    color: #2ecc71;
+  }
+  .slick-next::before {
+    content: '\276F';
+    font-weight: 900;
+    font-size: 40px;
+    color: #2ecc71;
+  }
+
+  img {
+    width: 300px;
+    height: 200px;
+  }
+  .slick-slide {
+    h4,
+    p {
+      opacity: 0;
+      transition: 1s all;
+    }
+    img {
+      transition: 1s all;
+      opacity: 0.5;
+      margin: 0 auto;
+    }
+  }
+  .slick-active.slick-current {
+    h4,
+    p {
+      opacity: 1;
+      transition: 1s all;
+    }
+    img {
+      transition: 1s all;
+      opacity: 1;
+      margin: 0 auto;
+    }
+    .slider-text {
+      position: relative;
+      width: 480px;
+      left: -65px;
+      margin-top: 50px;
+      h4 {
+        margin-top: 30px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1700px) {
+  .port-slider .slick-active.slick-center.slick-current .slider-text {
+    left: 0;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1124px) {
+  .port-slider {
+    .slick-slide {
+      img {
+        display: none;
+      }
+    }
+    .slick-prev {
+      left: 0;
+    }
+    .slick-next {
+      right: 0;
+    }
+    .slick-active.slick-current {
+      img {
+        display: block;
+      }
+    }
+    .slick-active.slick-current .slider-text {
+      position: relative;
+      width: 80%;
+      left: 0;
+      margin: 0 auto;
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .call-out-home {
+    h5 {
+      width: 100%;
+    }
+  }
+  .popup_inner {
+    left: 0;
+    right: 0;
+  }
+  .popup {
+    width: 360px;
+    margin: 0;
+  }
+}
